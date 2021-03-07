@@ -1,0 +1,19 @@
+.second-section-skill{
+    background: rgb(0, 0, 0);
+    height: 500px;
+    border-top: solid 5px red;
+    margin-top: -5px ;
+}
+
+
+.title-skill{
+    font-size: 60px;
+    font-family: "Fira code", Verdana, Geneva, Tahoma, sans-serif;
+   
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    
+}
+
+
