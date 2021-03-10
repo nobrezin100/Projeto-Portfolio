@@ -1,0 +1,31 @@
+.banner {
+    box-sizing: border-box;
+    
+    background-image: url(../../assets/bannerHome.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+
+    padding-top: 290px;
+    padding-right: 200px;
+    
+    display: flex;
+    justify-content: right;
+
+    border-bottom: solid 5px red;
+}
+
+.banner .wrapper-title{
+    
+    width: 660px;
+    height: 190px;
+
+    text-align: center;
+}
+
+
+
+
+
+
+
