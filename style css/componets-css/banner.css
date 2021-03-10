@@ -10,7 +10,7 @@
     padding-right: 200px;
     
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
 
     border-bottom: solid 5px red;
 }
