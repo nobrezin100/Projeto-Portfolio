@@ -4,23 +4,29 @@
     background-image: url(../../assets/bannerHome.png);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 800px;
-
     padding-top: 290px;
     padding-right: 200px;
     
+    width: 1950px;
+    height: 1100px;
+    
+    
     display: flex;
     justify-content: flex-end;
-
+    
     
 }
 
 .banner .wrapper-title{
+    background-color: rgba(99, 23, 221, 0.781);
+    box-shadow: 8px 5px  5px rgb(128, 41, 241);
     
     width: 660px;
     height: 190px;
 
     text-align: center;
+
+    border-radius: 5px;
 }
 
 

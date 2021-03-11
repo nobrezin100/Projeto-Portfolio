@@ -1,6 +1,6 @@
 .title{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: blueviolet;
+    font-family: "Fira Code",Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(110, 226, 43);
     font-size: 40px;
     padding-top: 35px;
 }
@@ -8,9 +8,18 @@
 
 .title.-subtitle{
     
-    
-    
     font-size: 40px;
     padding-top: 15px;
-
+    
 }
+
+.title.-skill{
+    
+    font-size: 50px;
+    color: aliceblue;
+    
+    text-align: center;
+    padding-top: 50px;
+    
+}
+    
