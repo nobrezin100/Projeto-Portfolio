@@ -1,4 +1,4 @@
-.title-h1{
+.title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
     font-size: 40px;
@@ -6,10 +6,10 @@
 }
 
 
-.title-h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.title.-subtitle{
     
-    color: blueviolet;
+    
+    
     font-size: 40px;
     padding-top: 15px;
 
