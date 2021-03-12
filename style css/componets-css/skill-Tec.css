@@ -1,9 +1,7 @@
 .skill-tec {
-    
+    margin-top: 100px;
+    margin-left: 400px;
     display: flex;
+    
 }
 
-.title-language {
-    color: #fff;
-    font-size: 40px
-}
