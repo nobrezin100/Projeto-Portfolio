@@ -1,0 +1,25 @@
+.navegacao {
+    background-color: #7C5E99;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    border-bottom: solid 5px red;
+}
+
+.nav {
+    font-family: "Fira Code", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: blue;
+    
+    text-decoration: none;
+    
+    padding-right: 50px;
+    
+}
+
+

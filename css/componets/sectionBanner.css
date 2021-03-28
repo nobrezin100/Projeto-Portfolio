@@ -1,0 +1,49 @@
+.sectionBanner {
+    background-image: url(../../assents/banner.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+    height: 900px;
+
+    padding-top: 220px;
+    padding-left: 220px;
+
+}
+
+.wrapperBanner {
+    background-color: blue;
+    width: 750px;
+    height: 200px;
+    
+}
+    
+    
+
+
+.titleBanner { 
+    font-family: "Fira Code", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: brown;
+    
+    padding-top: 40px;
+    padding-left: 85px;
+    
+}    
+
+.subTitleBanner {
+    font-family: "Fira Code", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: brown;
+    
+    padding-top: 30px;
+    padding-left: 160px;
+}    
+
+.buttonBanner {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
