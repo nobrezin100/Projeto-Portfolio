@@ -1,0 +1,10 @@
+.components-right{
+    margin-left: 50vh;
+}
+
+.skill-right{
+    display: flex;
+    
+    margin-top: 100px;
+    margin-left: 50vh;
+}

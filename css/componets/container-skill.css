@@ -1,0 +1,20 @@
+.subtitle-skill{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+
+    padding-left: 20px;
+}
+
+.progress-bar{
+    font-size: 25px;
+    height: 25px;
+    
+    border: solid 3px #000;
+    margin-left: 20px;
+}
+  
+.container-skill{
+    display: flex;
+    flex-direction: column;
+    
+}

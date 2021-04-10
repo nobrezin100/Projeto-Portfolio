@@ -14,12 +14,12 @@
 .nav {
     font-family: "Fira Code", Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
+    font-weight: 500;
     color: blue;
     
     text-decoration: none;
     
     padding-right: 50px;
-    
 }
 
 
