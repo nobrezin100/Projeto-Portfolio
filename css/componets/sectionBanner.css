@@ -1,15 +1,17 @@
 .sectionBanner {
     background-image: url(../../assents/banner.png);
     background-repeat: no-repeat;
-    background-size: 100%;
-   
-    height: 100vh;
+    background-size: cover;
+    
+    
+    min-height: 900px;
 
     padding-top: 220px;
     padding-left: 220px;
 
-    
 }
+
+
 
 .wrapperBanner {
     background-color: blue;

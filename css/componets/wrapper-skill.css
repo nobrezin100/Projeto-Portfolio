@@ -7,13 +7,13 @@
 
 .progress-bar{
     font-size: 25px;
-    height: 25px;
     
     border: solid 3px #000;
     margin-left: 20px;
+    
 }
   
-.container-skill{
+.wrapper-skill{
     display: flex;
     flex-direction: column;
     
