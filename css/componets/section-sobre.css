@@ -1,0 +1,14 @@
+.section-sobre {
+    background-color: blueviolet;
+    height: 700px;
+    border-top: solid 5px red;
+}
+
+.sobre {
+    font-family: 'Fira code', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    margin: 10%;
+    padding: 20px;
+    background-color: #9f9fa6
+
+}
