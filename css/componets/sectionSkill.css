@@ -2,7 +2,7 @@
     background-color: blueviolet;
     height: 650px;
     border-top: solid 5px red;
-    margin-top: -50px;
+    
 
 }
 
@@ -16,15 +16,11 @@
 
 .componets-left{
     margin-top: 15vh;
-    margin-left: 50vh;
+    margin-left: 10vh;
 
     display: flex;
 } 
 
-.componets-right{
-    display: flex;
-}
-  
 
 
 
